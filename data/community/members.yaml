@@ -1299,17 +1299,6 @@ maintainers:
       - specs-triagers
     html_url: https://github.com/pellared
     avatar_url: https://avatars.githubusercontent.com/u/5067549?v=4
-  - name: petethepig
-    teams:
-      - ebpf-profiler-approvers
-      - ebpf-profiler-maintainers
-      - profiling-approvers
-      - profiling-maintainers
-      - profiling-triagers
-      - proto-approvers
-      - proto-triagers
-    html_url: https://github.com/petethepig
-    avatar_url: https://avatars.githubusercontent.com/u/662636?v=4
   - name: pichlermarc
     teams:
       - javascript-approvers
@@ -1495,8 +1484,6 @@ maintainers:
     avatar_url: https://avatars.githubusercontent.com/u/93588780?v=4
   - name: tedsuo
     teams:
-      - browser-approvers
-      - browser-maintainers
       - proto-approvers
       - proto-triagers
       - semconv-browser-approvers
@@ -2231,6 +2218,13 @@ approvers:
       - cpp-approvers
     html_url: https://github.com/owent
     avatar_url: https://avatars.githubusercontent.com/u/1209475?v=4
+  - name: petethepig
+    teams:
+      - profiling-triagers
+      - proto-approvers
+      - proto-triagers
+    html_url: https://github.com/petethepig
+    avatar_url: https://avatars.githubusercontent.com/u/662636?v=4
   - name: pinoOgni
     teams:
       - ebpf-instrumentation-approvers
@@ -2311,11 +2305,6 @@ approvers:
       - dotnet-instrumentation-triagers
     html_url: https://github.com/RassK
     avatar_url: https://avatars.githubusercontent.com/u/4929112?v=4
-  - name: rockdaboot
-    teams:
-      - ebpf-profiler-approvers
-    html_url: https://github.com/rockdaboot
-    avatar_url: https://avatars.githubusercontent.com/u/2087964?v=4
   - name: sajibAdhi
     teams:
       - docs-bn-approvers
@@ -2532,11 +2521,6 @@ triagers:
       - swift-triagers
     html_url: https://github.com/atreat
     avatar_url: https://avatars.githubusercontent.com/u/1031555?v=4
-  - name: bacherfl
-    teams:
-      - collector-contrib-triagers
-    html_url: https://github.com/bacherfl
-    avatar_url: https://avatars.githubusercontent.com/u/2143586?v=4
   - name: beniamin
     teams:
       - php-triagers
@@ -3201,6 +3185,9 @@ members:
   - name: shivanshuraj1333
     html_url: https://github.com/shivanshuraj1333
     avatar_url: https://avatars.githubusercontent.com/u/26167974?v=4
+  - name: singhvibhanshu
+    html_url: https://github.com/singhvibhanshu
+    avatar_url: https://avatars.githubusercontent.com/u/135852806?v=4
   - name: sokoide
     html_url: https://github.com/sokoide
     avatar_url: https://avatars.githubusercontent.com/u/1452761?v=4
